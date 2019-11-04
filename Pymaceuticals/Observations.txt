@@ -1,0 +1,3 @@
+1. Tumor Response to Treatment- The drug Capomulin was the only successful drug depicted on the diagram. All drugs exhibited more deviations in responses as more time passed. 
+2. Survival During Treatment- Most drugs tested had a 50% survival rate by timepoint 40. 
+3. Metastatic Sites Response- The placebo had the greatest measure of standard error. The sample placebo is not a good measure of the population. 
